@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deployed Web QA"
+  short_description: "Audit deployed web apps and report defects"
+  default_prompt: "Use $deployed-web-qa to audit this deployed web app and produce a severity-ranked QA report."
